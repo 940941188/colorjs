@@ -1,0 +1,9 @@
+{
+  "name": "colorjs",
+  "version": "1.0.0",
+  "description": "Parse, validate, manipulate, and display colors",
+  "main": "colorjs.js",
+  "repository": "https://github.com/940941188/colorjs",
+  "author": "Yun Wang <940941188@qq.com>",
+  "license": "MIT"
+}

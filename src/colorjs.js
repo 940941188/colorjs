@@ -1,6 +1,6 @@
 import { convertDecimal } from './algorithm';
 
-const colorjs = (params) => {
+const colorjs = function _color(params) {
   const match = params.match(/^#(\S{2})(\S{2})(\S{2})$/);
   const color = {
     colorHex: '',
